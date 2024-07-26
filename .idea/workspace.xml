@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3ee5bac-3abf-443d-8e2d-38ce961edec6" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/changelog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/changelog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/channels/certificate_subject.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/channels/certificate_subject.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/channels/key_subject.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/channels/key_subject.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/channels/pay_product.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/channels/pay_product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/channels/transfer_subject.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/channels/transfer_subject.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/chennel.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/chennel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/colorpicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/colorpicker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/cookie-banner.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/cookie-banner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/datagrid.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/datagrid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/forgot-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/form-elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/form-elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/invoice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/job-listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/job-listing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/lightbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/lightbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/logs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/logs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/markdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/markdown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/merchant/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/merchant/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/offcanvas.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/offcanvas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/payment/manual_transfer_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/payment/manual_transfer_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/payment/payment_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/payment/payment_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/payment/transfer_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/payment/transfer_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/pricing-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/pricing-table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/search-results.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/search-results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/settings-plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/settings-plan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/settings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/sign-in-cover.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/sign-in-cover.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/sign-in-illustration.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/sign-in-illustration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/sign-in-link.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/sign-in-link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/sign-in.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/sign-up.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/sign-up.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/statement/merchant_receipt_statement.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/statement/merchant_receipt_statement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/statement/payment_statement.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/statement/payment_statement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/statement/user_receipt_statement.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/statement/user_receipt_statement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/transfer/certificate_subject.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/transfer/certificate_subject.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/transfer/group.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/transfer/group.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/transfer/transfer_key_subject.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/transfer/transfer_key_subject.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin/tabler-dev/demo/transfer/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/../admin/tabler-dev/demo/transfer/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-api/application/library/Alipay/Service/AppPaymentService.php" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-api/application/library/Alipay/Service/AppPaymentService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/changelog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/changelog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/chennel.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/chennel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/colorpicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/colorpicker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/cookie-banner.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/cookie-banner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/datagrid.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/datagrid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/forgot-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/form-elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/form-elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/invoice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/job-listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/job-listing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/lightbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/lightbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/logs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/logs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/markdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/markdown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/offcanvas.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/offcanvas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/payment/payment_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/payment/payment_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/pricing-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/pricing-table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/search-results.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/search-results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/settings-plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/settings-plan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/settings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/sign-in-cover.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/sign-in-cover.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/sign-in-illustration.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/sign-in-illustration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/sign-in-link.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/sign-in-link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/sign-in.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/sign-up.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/sign-up.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/statement/merchant_receipt_statement.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/statement/merchant_receipt_statement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/statement/payment_statement.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/statement/payment_statement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/statement/user_receipt_statement.html" beforeDir="false" afterPath="$PROJECT_DIR$/../merchant-system/tabler-dev/demo/statement/user_receipt_statement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queue/Service/AlipayMerchantsTransferService.php" beforeDir="false" afterPath="$PROJECT_DIR$/../queue/Service/AlipayMerchantsTransferService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/changelog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/changelog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/colorpicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/colorpicker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/cookie-banner.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/cookie-banner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/datagrid.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/datagrid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/forgot-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/form-elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/form-elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/invoice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/lightbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/lightbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/logs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/logs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/markdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/markdown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/offcanvas.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/offcanvas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/payment/transfer_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/payment/transfer_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/pricing-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/pricing-table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/search-results.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/search-results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/settings-plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/settings-plan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/sign-in-cover.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/sign-in-cover.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/sign-in-illustration.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/sign-in-illustration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/sign-in-link.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/sign-in-link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/sign-in.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/sign-up.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/sign-up.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/statement/user_receipt_statement.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/statement/user_receipt_statement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transfer/adminhtml/demo/transfer/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transfer/adminhtml/demo/transfer/user.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2jNHOtIL48PMyEXR4KMM0kprD11" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/admin/Desktop/www/pay/docs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e3ee5bac-3abf-443d-8e2d-38ce961edec6" name="更改" comment="" />
+      <created>1721220585147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721220585147</updated>
+      <workItem from="1721220586193" duration="673000" />
+      <workItem from="1721743780371" duration="599000" />
+      <workItem from="1722001532368" duration="2585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
